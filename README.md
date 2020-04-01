@@ -1,2 +1,2 @@
-# Sabbatini
-My first repository for experimentation and learning.
+# Scripts
+Repository for storing scripts and experimenting with Git and GitHub.
