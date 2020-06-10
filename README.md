@@ -1,2 +1,3 @@
 # Scripts
-Repository for storing scripts and experimenting with Git and GitHub.
+
+Repository for storing small scripts and experimenting with Git and GitHub.
